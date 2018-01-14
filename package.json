@@ -3,9 +3,12 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "as-table": "^1.0.31",
     "axios": "^0.17.1",
     "babel-eslint": "^8.2.1",
+    "ccxt": "^1.10.694",
     "eslint": "^4.15.0",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "ololog": "^1.1.83"
   }
 }
